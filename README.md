@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **GEN AI**
 
-- 👨‍💻 All of my projects are available at [https://namannimble.netlify.app/](https://namannimble.netlify.app/)
-
 - 💬 Ask me about **Data Analysis , Machine Learning , Reports , Deep learning and Case Studies**
 
 - 📫 How to reach me **naman.nimble.ug21@nsut.ac.in**
