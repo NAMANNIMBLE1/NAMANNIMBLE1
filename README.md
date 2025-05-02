@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Naman Nimble and I'm an Aspiring Data Scientist</h1>
+<h1 align="left">Hi 👋! My name is Naman Nimble, an aspiring data scientist.</h1>
 
 ###
 
