@@ -1,141 +1,181 @@
-<h1 align="left">Hi 👋! I'm Naman Nimble — AI/ML & Backend Engineer</h1>
+<h1 align="left">Hi 👋! I'm Naman Nimble</h1>
 
 <h3 align="left">
-  Building with LLMs, backend systems, and scalable architectures.
+AI/ML Engineer • Backend Engineer • LLMs • Full-Stack
 </h3>
 
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=namannimble1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=namannimble1&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="github streak" />
-</div>
-
-###
-
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2NzZzZmcWZ2MGRkaXFiZXFibTJyb3lsMnF3cnliN3kydGM2cHk2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3XgorMUkqaCvm/giphy.gif" />
-
-###
-
-<h2 align="left">⚡ What I Work On</h2>
-
 <p align="left">
-  🤖 Large Language Models & Fine-Tuning<br>
-  🧠 Generative AI & AI Systems<br>
-  ⚙️ Backend Engineering & API Design<br>
-  🏗️ System Design & Microservices<br>
-  🐳 Docker & Distributed Systems<br>
-  📊 Machine Learning & Data Science
+Graduate Engineering Trainee at <b>InfraKnit Technologies</b>, working on
+LLMs, machine learning systems, backend services, databases, and
+infrastructure monitoring.
 </p>
 
-###
+---
 
-<h2 align="left">🛠️ Tech Stack</h2>
+## 💼 What I Work On
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
+- 🤖 **LLMs & Generative AI** — Fine-Tuning, LoRA/PEFT, RAG, Hugging Face, PyTorch
+- ⚙️ **Backend Engineering** — FastAPI, Node.js, Flask, REST API Design
+- 🗄️ **Databases & SQL** — PostgreSQL, MySQL, SQLite, query development and data-heavy applications
+- 📊 **Large-Scale Data** — Data preprocessing, transformation, analysis, and ML pipelines
+- 🖥️ **Servers & Infrastructure** — CPU, memory, storage, network and system monitoring
+- 📡 **System Data** — Working with infrastructure metrics and continuously generated monitoring data
+- 🌐 **Full-Stack Development** — React.js, Next.js, API-driven applications
+- 🏗️ **Engineering** — System Design, LLD, Microservices & Distributed Systems
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-  <img width="12" />
+---
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
+## 💼 Experience
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
+### Graduate Engineering Trainee — InfraKnit Technologies
+**Jul 2025 – Present · Noida, India**
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo" />
-  <img width="12" />
+- Built **ML prediction and anomaly-detection systems** for CPU, memory, storage and network utilization.
+- Developed **FastAPI and Node.js REST APIs** for ML inference and infrastructure monitoring.
+- Worked with **SQL, PostgreSQL/MySQL and data-heavy backend applications**.
+- Processed and analyzed infrastructure datasets for forecasting and resource monitoring.
+- Worked extensively with **PyTorch, Hugging Face and production ML workflows**.
+- Built React.js dashboards for real-time infrastructure health and system metrics.
+- Contributed to enterprise applications for **patch management and asset management**.
+- Developed a customer-support chatbot using custom-preprocessed data.
+- Fine-tuning, RAG and AI application development using modern LLM tooling.
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />
-  <img width="12" />
+---
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" />
-  <img width="12" />
+## 🧠 AI / ML
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" />
-  <img width="12" />
+**Python · PyTorch · TensorFlow · Hugging Face · Scikit-learn · XGBoost · LightGBM**
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-  <img width="12" />
+LLMs • Fine-Tuning • LoRA • PEFT • RAG • FAISS  
+NLP • Deep Learning • Time-Series Forecasting • Anomaly Detection
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo" />
-  <img width="12" />
+---
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
+## ⚙️ Backend & Data
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
-  <img width="12" />
+**FastAPI · Node.js · Flask · REST APIs · Pydantic**
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo" />
-  <img width="12" />
+**PostgreSQL · MySQL · SQLite · SQL**
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
-  <img width="12" />
+- REST API development
+- SQL query development and data handling
+- Large dataset processing
+- Data preprocessing and transformation
+- ML inference APIs
+- Infrastructure and server data processing
+- Monitoring and resource-utilization systems
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
-  <img width="12" />
+---
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-  <img width="12" />
+## 🚀 Selected Work
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="12" />
+### 🤖 Offline AI Chatbot
+**PyTorch · Hugging Face · LoRA · PEFT · Flask**
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
-  <img width="12" />
+Fine-tuned a **1.1B parameter SLM** and developed an offline chatbot
+backend for an operational helpdesk.
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
-  <img width="12" />
+### 🔎 RAG-Based Chatbot
+**FAISS · RAG · Groq · Kimi K2**
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="30" alt="kubernetes logo" />
-</div>
+Built a RAG pipeline with document chunking, embeddings,
+vector retrieval and LLM inference.
 
-###
+### 📊 Infrastructure Prediction & Anomaly Detection
 
-<h2 align="left">🚀 Currently Learning & Building</h2>
+Built prediction systems for **CPU, memory, storage and network
+utilization**, achieving **>80% accuracy**, with monitoring dashboards
+for infrastructure health.
 
-<p align="left">
-  • Advanced LLM fine-tuning and model adaptation<br>
-  • Generative AI and agentic systems<br>
-  • Production-grade backend architecture<br>
-  • System design and distributed systems<br>
-  • Microservices architecture<br>
-  • Scalable AI/ML infrastructure
-</p>
+---
 
-###
+## 🏗️ Currently Exploring
 
-<h2 align="left">💼 Experience</h2>
+**System Design · Low-Level Design · Microservices · Distributed Systems**
 
-<p align="left">
-  Worked in a startup environment building and working with
-  <b>LLM-based systems, model fine-tuning, backend services, and scalable architectures.</b>
-  <br><br>
-  Currently expanding my expertise in <b>system design, microservices, distributed systems,
-  and production-grade AI engineering.</b>
-</p>
+Focused on building scalable backend services, production AI systems,
+and reliable infrastructure-aware applications.
 
-###
+---
 
-<h2 align="left">📫 Connect With Me</h2>
+## 🛠️ Tech Stack
 
 <div align="left">
-  <a href="mailto:naman.nimble.ug21@nsut.ac.in" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
 
-  <a href="https://www.linkedin.com/in/naman-nimble-a7511b298/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="C++"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="32" alt="PyTorch"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="32" alt="FastAPI"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="Node.js"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="PostgreSQL"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="MySQL"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="Docker"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="Linux"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git"/>
+
 </div>
 
-###
+---
 
-<br clear="both">
+## 🏆 Achievement
+
+🏅 **Prefinalist — IIT Kharagpur Data Science Hackathon 2025**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="left">
+
+<img src="https://github-readme-stats.vercel.app/api?username=namannimble1&show_icons=true&theme=radical&hide_border=false" height="150"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=namannimble1&layout=compact&langs_count=6&theme=radical&hide_border=false" height="150"/>
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<a href="mailto:nex20212627@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/naman-nimble-a7511b298/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/NAMANNIMBLE1">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
 
 <img src="https://raw.githubusercontent.com/namannimble1/namannimble1/output/snake.svg" alt="Snake animation" />
-
-###
