@@ -1,270 +1,185 @@
-# Hi, I'm Naman Nimble
+<h1 align="left">Hi 👋! I'm Naman Nimble</h1>
 
-### AI/ML Engineer · Backend Engineer · LLMs · Full-Stack Development
+<h3 align="left">
+AI/ML Engineer • Backend Engineer • LLMs • Full-Stack
+</h3>
 
-Graduate Engineering Trainee at **InfraKnit Technologies**, working on
-LLMs, machine learning systems, backend services, databases,
-infrastructure monitoring, and production-oriented AI applications.
-
----
-
-## About Me
-
-- Building **LLM and Generative AI applications**
-- Developing **ML prediction and anomaly-detection systems**
-- Building backend services and **ML inference APIs**
-- Working with **infrastructure and server monitoring data**
-- Developing data-intensive applications using **SQL and relational databases**
-- Building API-driven applications with **React and backend services**
-- Currently deepening my knowledge of **System Design, LLD, Microservices and Distributed Systems**
+<p align="left">
+Graduate Engineering Trainee at <b>InfraKnit Technologies</b>, working on
+LLMs, machine learning systems, backend services, databases, and
+infrastructure monitoring.
+</p>
 
 ---
 
-## Experience
+## 💼 What I Work On
+
+- 🤖 **LLMs & Generative AI** — Fine-Tuning, LoRA/PEFT, RAG, Hugging Face, PyTorch
+- ⚙️ **Backend Engineering** — FastAPI, Node.js, Flask, REST API Design
+- 🗄️ **Databases & SQL** — PostgreSQL, MySQL, SQLite, query development and data-heavy applications
+- 📊 **Large-Scale Data** — Data preprocessing, transformation, analysis, and ML pipelines
+- 🖥️ **Servers & Infrastructure** — CPU, memory, storage, network and system monitoring
+- 📡 **System Data** — Working with infrastructure metrics and continuously generated monitoring data
+- 🌐 **Full-Stack Development** — React.js, Next.js, API-driven applications
+- 🏗️ **Engineering** — System Design, LLD, Microservices & Distributed Systems
+
+---
+
+## 💼 Experience
 
 ### Graduate Engineering Trainee — InfraKnit Technologies
 **Jul 2025 – Present · Noida, India**
 
-- Built ML prediction and anomaly-detection systems for **CPU, memory, storage and network utilization**.
+- Built **ML prediction and anomaly-detection systems** for CPU, memory, storage and network utilization.
 - Developed **FastAPI and Node.js REST APIs** for ML inference and infrastructure monitoring.
-- Worked with **PostgreSQL, MySQL and SQL** for data-intensive backend applications.
-- Processed and analyzed infrastructure datasets for **forecasting and resource monitoring**.
-- Worked with **PyTorch, Hugging Face, LoRA, PEFT and LLM workflows**.
-- Built React-based dashboards for infrastructure health and system metrics.
+- Worked with **SQL, PostgreSQL/MySQL and data-heavy backend applications**.
+- Processed and analyzed infrastructure datasets for forecasting and resource monitoring.
+- Worked extensively with **PyTorch, Hugging Face and production ML workflows**.
+- Built React.js dashboards for real-time infrastructure health and system metrics.
 - Contributed to enterprise applications for **patch management and asset management**.
 - Developed a customer-support chatbot using custom-preprocessed data.
-- Worked on **fine-tuning, RAG, embeddings, vector retrieval and LLM applications**.
+- Fine-tuning, RAG and AI application development using modern LLM tooling.
 
 ---
 
-# Technical Skills
+## 🧠 AI / ML
 
-## Languages
+**Python · PyTorch · TensorFlow · Hugging Face · Scikit-learn · XGBoost · LightGBM**
 
-**Python · C++ · TypeScript · JavaScript · SQL**
-
----
-
-## AI / Machine Learning
-
-**PyTorch · TensorFlow · Keras · Hugging Face · Scikit-learn · XGBoost · LightGBM**
-
-**Machine Learning · Deep Learning · NLP · Time-Series Forecasting ·
-Anomaly Detection · Feature Engineering · Exploratory Data Analysis**
+LLMs • Fine-Tuning • LoRA • PEFT • RAG • FAISS  
+NLP • Deep Learning • Time-Series Forecasting • Anomaly Detection
 
 ---
 
-## Generative AI / LLM Engineering
+## ⚙️ Backend & Data
 
-**LLMs · RAG · Fine-Tuning · LoRA · PEFT · Hugging Face Transformers**
+**FastAPI · Node.js · Flask · REST APIs · Pydantic**
 
-**FAISS · Embeddings · Vector Search · Prompt Engineering ·
-LLM Inference · AI Applications**
+**PostgreSQL · MySQL · SQLite · SQL**
 
----
-
-## Data & Scientific Computing
-
-**NumPy · Pandas · Matplotlib · Seaborn**
-
-- Data preprocessing
-- Data transformation
-- Feature engineering
-- Exploratory data analysis
+- REST API development
+- SQL query development and data handling
 - Large dataset processing
-- ML data pipelines
-- Statistical analysis
-
----
-
-## Backend Engineering
-
-**FastAPI · Flask · Node.js · Express.js · REST APIs · Pydantic**
-
-- API design and development
+- Data preprocessing and transformation
 - ML inference APIs
-- Backend services
-- Authentication & authorization
-- Data-intensive applications
-- API-driven architectures
-- Microservices
+- Infrastructure and server data processing
+- Monitoring and resource-utilization systems
 
 ---
 
-## Frontend / Full-Stack
+## 🚀 Selected Work
 
-**React.js · Next.js · JavaScript · TypeScript**
-
-- API-driven applications
-- Infrastructure dashboards
-- Data visualization interfaces
-- Full-stack applications
-
----
-
-## Databases
-
-**PostgreSQL · MySQL · SQLite · Redis**
-
-**SQL · Relational Database Design · Query Development**
-
----
-
-## Data Visualization & Analytics
-
-**Power BI · Microsoft Excel**
-
----
-
-## Systems & Infrastructure
-
-**Linux · Docker · Git · GitHub**
-
-- CPU monitoring
-- Memory monitoring
-- Storage monitoring
-- Network monitoring
-- Infrastructure metrics
-- Resource utilization
-- Server monitoring
-- Infrastructure data processing
-
----
-
-## Engineering & Architecture
-
-**System Design · Low-Level Design · Microservices ·
-Distributed Systems · Backend Architecture · API Architecture**
-
----
-
-## Tools & Development Environment
-
-**VS Code · PyCharm · Jupyter Notebook · Google Colab · Anaconda**
-
----
-
-# Selected Projects
-
-## Offline AI Chatbot
-
+### 🤖 Offline AI Chatbot
 **PyTorch · Hugging Face · LoRA · PEFT · Flask**
 
-Fine-tuned a **1.1B parameter SLM** using parameter-efficient
-fine-tuning techniques and developed an offline chatbot backend
-for an operational helpdesk.
+Fine-tuned a **1.1B parameter SLM** and developed an offline chatbot
+backend for an operational helpdesk.
+
+### 🔎 RAG-Based Chatbot
+**FAISS · RAG · Groq · Kimi K2**
+
+Built a RAG pipeline with document chunking, embeddings,
+vector retrieval and LLM inference.
+
+### 📊 Infrastructure Prediction & Anomaly Detection
+
+Built prediction systems for **CPU, memory, storage and network
+utilization**, achieving **>80% accuracy**, with monitoring dashboards
+for infrastructure health.
 
 ---
 
-## RAG-Based Chatbot
+## 🏗️ Currently Exploring
 
-**FAISS · RAG · Embeddings · Groq · Kimi K2**
+**System Design · Low-Level Design · Microservices · Distributed Systems**
 
-Built a retrieval-augmented generation pipeline involving:
-
-- Document preprocessing
-- Text chunking
-- Embedding generation
-- Vector similarity search
-- FAISS-based retrieval
-- Context construction
-- LLM inference
+Focused on building scalable backend services, production AI systems,
+and reliable infrastructure-aware applications.
 
 ---
 
-## Infrastructure Prediction & Anomaly Detection
+## 🛠️ Tech Stack
 
-**Python · Machine Learning · Time-Series Data · FastAPI · React**
+<div align="left">
 
-Built prediction and anomaly-detection systems for:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python"/>
+<img width="10"/>
 
-- CPU utilization
-- Memory utilization
-- Storage utilization
-- Network utilization
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="C++"/>
+<img width="10"/>
 
-Developed monitoring dashboards for infrastructure health
-and resource utilization.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript"/>
+<img width="10"/>
 
----
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript"/>
+<img width="10"/>
 
-## Machine Learning Projects
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="32" alt="PyTorch"/>
+<img width="10"/>
 
-### Heart Disease Prediction
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="32" alt="FastAPI"/>
+<img width="10"/>
 
-**Python · Pandas · Scikit-learn · EDA · Feature Engineering**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="Node.js"/>
+<img width="10"/>
 
-Performed preprocessing, exploratory data analysis, feature
-engineering and trained multiple ML models for prediction.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React"/>
+<img width="10"/>
 
-### E-Commerce Shipping Analysis
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="PostgreSQL"/>
+<img width="10"/>
 
-**Python · Pandas · Scikit-learn · Machine Learning**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="MySQL"/>
+<img width="10"/>
 
-Performed exploratory analysis and predictive modeling
-on e-commerce shipping data.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="Docker"/>
+<img width="10"/>
 
-### Zomato Dataset Analysis
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="Linux"/>
+<img width="10"/>
 
-**Python · Pandas · Matplotlib · Seaborn**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git"/>
 
-Performed exploratory data analysis on restaurant and
-food-delivery data.
-
-### Blinkit Sales Analysis
-
-**Power BI · Microsoft Excel · Data Analysis**
-
-Built an interactive sales dashboard for analyzing
-business and sales performance.
-
-### Pizza Sales Analysis
-
-**MySQL · SQL · Data Analysis**
-
-Performed SQL-based analysis of pizza sales data
-to extract business insights.
+</div>
 
 ---
 
-# Currently Exploring
+## 🏆 Achievement
 
-**System Design · Low-Level Design · Microservices ·
-Distributed Systems · MLOps · AI Agents · GPU Computing**
-
-Exploring technologies and concepts including:
-
-**Docker · Redis · Kafka · RabbitMQ · Kubernetes ·
-Apache Spark · Hadoop · Hive · CUDA**
+🏅 **Prefinalist — IIT Kharagpur Data Science Hackathon 2025**
 
 ---
 
-# Areas of Interest
+## 📊 GitHub Stats
 
-- Large Language Models
-- Generative AI
-- AI Agents
-- ML Systems
-- Backend Engineering
-- Distributed Systems
-- System Design
-- GPU Computing
-- CUDA Programming
-- Infrastructure Monitoring
-- Scalable AI Applications
+<div align="left">
+
+<img src="https://github-readme-stats.vercel.app/api?username=namannimble1&show_icons=true&theme=radical&hide_border=false" height="150"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=namannimble1&layout=compact&langs_count=6&theme=radical&hide_border=false" height="150"/>
+
+</div>
 
 ---
 
-# Achievement
+## 📫 Connect With Me
 
-**Prefinalist — IIT Kharagpur Data Science Hackathon 2025**
+<a href="mailto:nex20212627@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
----
+<a href="https://www.linkedin.com/in/naman-nimble-a7511b298/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-# Connect
+<a href="https://github.com/NAMANNIMBLE1">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-**Email:** nex20212627@gmail.com
+<br><br>
 
-**LinkedIn:** https://www.linkedin.com/in/naman-nimble-a7511b298/
+<img src="https://raw.githubusercontent.com/namannimble1/namannimble1/output/snake.svg" alt="Snake animation" />
 
-**GitHub:** https://github.com/NAMANNIMBLE1
+
+
+can you remove these stupid animations etc and keep things professional like tech satck ad all techstack you know about me 
