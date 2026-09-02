@@ -1,6 +1,6 @@
 # Naman Nimble
 
-**AI/ML Engineer • Backend Engineer • LLMs • Full-Stack Developer**
+**AI/ML Engineer • Backend Engineer • LLMs **
 
 Graduate Engineering Trainee at **InfraKnit Technologies**, worked on LLMs, machine learning systems, backend services, databases, and infrastructure monitoring.
 
