@@ -2,7 +2,7 @@
 
 **AI/ML Engineer • Backend Engineer • LLMs • Full-Stack Developer**
 
-Graduate Engineering Trainee at **InfraKnit Technologies**, working on LLMs, machine learning systems, backend services, databases, and infrastructure monitoring.
+Graduate Engineering Trainee at **InfraKnit Technologies**, worked on LLMs, machine learning systems, backend services, databases, and infrastructure monitoring.
 
 📧 [nex20212627@gmail.com](mailto:nex20212627@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/naman-nimble-a7511b298/) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/NAMANNIMBLE1)
 
